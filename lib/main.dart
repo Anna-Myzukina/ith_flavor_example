@@ -7,9 +7,24 @@ import 'package:ith/pages/calculate_page.dart';
 import 'package:ith/pages/result_page.dart';
 import 'package:easy_localization/easy_localization.dart';
 
-void main() async {
-  WidgetsFlutterBinding.ensureInitialized();
-  await EasyLocalization.ensureInitialized();
+enum AppFlavor {english, czech, french}
+
+void startApp(String flavorString) {
+
+  AppFlavor flavor = AppFlavor.english;
+
+  switch (flavorString) {
+    case 'english' :
+    flavor = AppFlavor.english;
+    break;
+    case 'czech' :
+    flavor = AppFlavor.czech;
+    break;
+    case 'french' :
+    flavor = AppFlavor.french;
+    break;
+
+  }
 
   runApp(
     EasyLocalization(
@@ -20,13 +35,13 @@ void main() async {
       Locale('fr', 'FR')
     ],
     fallbackLocale: Locale('fr', 'FR'),
-    child: App(),
+    child: App(flavor: flavor),
     ),
     );
 }
 
 class App extends StatelessWidget {
-  const App({Key? key}) : super(key: key);
+  const App({Key? key, required AppFlavor flavor}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

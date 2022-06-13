@@ -32,6 +32,10 @@ $ pub get
 
 ![screen](https://github.com/Anna-Myzukina/ith_flavor_example/blob/main/assets/images/screen1.png)
 
+- [ ] Next We have define a string resource called app_name to change the name of our app depend on language of our app, this string we are using in the AndroidManifest.xml
+
+
+
 
 
 
