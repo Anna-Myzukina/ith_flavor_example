@@ -16,7 +16,7 @@ A multilanguage app. Our app will have different versions depend of the language
 
 
 ## Environment
-- [ ]Flutter version 2.8.1
+- [ ] Flutter version 2.8.1
 - [ ] easy_localization version ^3.0.0
 
 ## Getting started
