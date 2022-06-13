@@ -4,7 +4,7 @@
 
 A multilanguage app. Our app will have different versions depend of the language. To realise such idea will be used easy_localization package, flavors.
 
-![screen](https://github.com/Anna-Myzukina/ith_flavor_example/blob/master/app/assets/images/screen.png)
+![screen](https://github.com/Anna-Myzukina/ith_flavor_example/blob/main/assets/images/screen.png)
 
 ## Helpfull Tools 
 - [ ] [FVM](https://fvm.app/)
