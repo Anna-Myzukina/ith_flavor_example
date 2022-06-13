@@ -1,0 +1,16 @@
+{
+  "bmi_calculator": "BMI calculator",
+  "bmi_result" : "BMI Results",
+  "bmi_info" : "BMI Info",
+  "bmi_male" : "Male",
+  "bmi_female" : "Female",
+  "bmi_height" : "Height",
+  "bmi_weight" : "Weight",
+  "bmi_age" : "Age",
+  "btn_lets_begin" : "Let's begin",
+  "normal_msg" : "You have normal body weight . Good job !",
+  "less_norma_msg" : "You have a lower than normal body weight . You can eat a bit more .",
+  "more_norma_msg" : "'You are higher than normal body weight . Try to exercise more",
+  "bmi_details" : "Details"
+  
+}

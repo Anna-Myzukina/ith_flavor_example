@@ -1,0 +1,15 @@
+{
+  "bmi_calculator": "Calculateur IMC",
+  "bmi_result" : "Résultats IMC",
+  "bmi_info" : "Infos IMC",
+  "bmi_male" : "Homme",
+  "bmi_female" : "Femme",
+  "bmi_height" : "Hauteur",
+  "bmi_weight" : "Poids",
+  "bmi_age": "Âge",
+  "btn_lets_begin": "Commençons",
+  "normal_msg": "Vous avez un poids corporel normal. Bon travail!",
+  "less_norma_msg": "Vous avez un poids inférieur à la normale . Vous pouvez manger un peu plus .",
+  "more_norma_msg": "'Vous avez un poids supérieur à la normale. Essayez de faire plus d'exercice",
+  "bmi_details": "Détails"
+}

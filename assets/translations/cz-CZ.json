@@ -1,0 +1,15 @@
+{
+  "bmi_calculator": "BMI kalkulačka",
+  "bmi_result" : "Výsledky BMI",
+  "bmi_info" : "Informace o BMI",
+  "bmi_male" : "Muž",
+  "bmi_female" : "Žena",
+  "bmi_height" : "Výška",
+  "bmi_weight" : "Hmotnost",
+  "bmi_age" : "Věk",
+  "btn_lets_begin" : "Začněme",
+  "normal_msg" : "Máte normální tělesnou hmotnost. Dobrá práce!",
+  "less_norma_msg" : "Máte nižší než normální tělesnou hmotnost. Můžete jíst o něco více.",
+  "more_norma_msg" : "'Máte vyšší než normální tělesnou hmotnost. Zkuste více cvičit",
+  "bmi_details" : "Podrobnosti"
+}
