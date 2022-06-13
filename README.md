@@ -1,16 +1,26 @@
 # ith
 
-A new Flutter project.
+## Description
 
-## Getting Started
+A multilanguage app. Our app will have different versions depend of the language. To realise such idea will be used easy_localization package, flavors.
 
-This project is a starting point for a Flutter application.
+![screen](https://github.com/Anna-Myzukina/ith_flavor_example/blob/master/app/assets/images/screen.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Helpfull Tools 
+- [ ] [FVM](https://fvm.app/)
+- [ ] [easy_localization](https://pub.dev/packages/easy_localization)
+- [ ] [flavors](https://docs.flutter.dev/deployment/flavors)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Features
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Environment
+- [ ]Flutter version 2.8.1
+- [ ] easy_localization version ^3.0.0
+
+## Getting started
+- [ ] To get started with the app, clone the repo, and then install the needed pubs:
+
+```
+$ pub get
