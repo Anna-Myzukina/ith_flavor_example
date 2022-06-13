@@ -26,6 +26,28 @@ apply plugin: 'kotlin-android'
 apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
 
 android {
+    flavorDimensions "annaFlavors"
+
+    productFlavors {
+        english {
+            dimension "annaFlavors"
+            applicationIdSuffix ".en"
+            versionNameSuffix "-en"
+        }
+
+        czech {
+            dimension "annaFlavors"
+            applicationIdSuffix ".cz"
+            versionNameSuffix "-cz"
+        }
+
+        french {
+            dimension "annaFlavors"
+            applicationIdSuffix ".fr"
+            versionNameSuffix "-fr"
+        }
+    }
+
     compileSdkVersion flutter.compileSdkVersion
 
     compileOptions {
