@@ -4,7 +4,7 @@
 
 A multilanguage app. Our app will have different versions depend of the language. To realise such idea will be used easy_localization package, flavors.
 
-![screen](https://github.com/Anna-Myzukina/ith_flavor_example/blob/master/app/assets/images/screen.png)
+![screen](https://github.com/Anna-Myzukina/ith_flavor_example/blob/main/assets/images/screen.png)
 
 ## Helpfull Tools 
 - [ ] [FVM](https://fvm.app/)
@@ -16,7 +16,7 @@ A multilanguage app. Our app will have different versions depend of the language
 
 
 ## Environment
-- [ ]Flutter version 2.8.1
+- [ ] Flutter version 2.8.1
 - [ ] easy_localization version ^3.0.0
 
 ## Getting started
@@ -28,9 +28,9 @@ $ pub get
 
 ## Step 1: Adding build flavors to Android
 
-[ ] add flavors to app/build.gradle and it should looks something like this
+- [ ] add flavors to app/build.gradle and it should looks something like this
 
-![screen](https://github.com/Anna-Myzukina/ith_flavor_example/blob/master/app/assets/images/screen1.png)
+![screen](https://github.com/Anna-Myzukina/ith_flavor_example/blob/main/assets/images/screen1.png)
 
 
 
